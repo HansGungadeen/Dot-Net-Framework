@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.exe
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.deps.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\bin\Debug\netcoreapp3.0\MyFirstApp.pdb
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\obj\Debug\netcoreapp3.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\obj\Debug\netcoreapp3.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\obj\Debug\netcoreapp3.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\obj\Debug\netcoreapp3.0\MyFirstApp.dll
+C:\Users\Hans.Gungadeen\Desktop\C# course\.net Framework\MyFirstApp\obj\Debug\netcoreapp3.0\MyFirstApp.pdb
